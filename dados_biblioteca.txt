@@ -1,0 +1,16 @@
+3
+O Cortiço
+Aluísio Azevedo
+livros/o_cortico.txt
+1
+Dom Casmurro
+Machado de Assis
+livros/dom_casmurro.txt
+2
+Memórias Póstumas de Brás Cubas
+Machado de Assis
+livros/memorias_postumas.txt
+4
+Teste
+Teste
+Teste
